@@ -16,5 +16,3 @@ logging:
 flowable:
   database-schema: flowable
   check-process-definitions: false
-  database-schema-update: false
-
